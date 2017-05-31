@@ -95,6 +95,7 @@
 - https://github.com/0x584A/fuzzXssPHP (PHP版本的反射型xss扫描)
 - https://github.com/chuhades/xss_scan (批量扫描xss的python脚本）
 - https://github.com/BlackHole1/autoFindXssAndCsrf (自动化检测页面是否存在XSS和CSRF漏洞的浏览器插件）
+- https://github.com/Medicean/VulApps/tree/master/tools/ant（蚁逅是一款实时上线的xss盲打平台）
 
 #### 企业网络自检
 
